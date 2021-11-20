@@ -1,0 +1,12 @@
+.main-button {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px 40px;
+
+    background-color: #4ECCA3;
+    color: #fff;
+    text-shadow: 2px 2px 4px #00000041;
+    
+    font-weight: 700;
+    font-size: 1em;
+}
