@@ -1,0 +1,7 @@
+.main-banner {
+    height: calc(100vh - 104px);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
