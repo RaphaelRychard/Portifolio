@@ -1,0 +1,11 @@
+.main-action {
+    color: #FFF;
+    text-shadow: 2px 2px 4px #00000041;
+
+    display: inline-flex;
+    padding: 0 20px;
+
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 1em;
+} 
