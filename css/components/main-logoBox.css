@@ -1,3 +1,5 @@
 .main-logoBox {
     width: 178px;
+    display: flex;
+    align-items: center;
 }
