@@ -1,0 +1,17 @@
+.skill-tec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-tec:nth-child(odd) {
+    margin-right: 120px;
+}
+
+.skill-tec > .-box {
+    margin-left: 15px;
+}
+
+.skill-tec > .logoSkill {
+    width: 70px;
+}
