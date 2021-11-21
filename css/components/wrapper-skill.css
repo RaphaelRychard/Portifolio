@@ -1,0 +1,9 @@
+.wrapper-skill {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    height: 500px;
+}
+
