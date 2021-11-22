@@ -1,5 +1,5 @@
 .main-banner {
-    height: calc(100vh - 112px);
+    height: 100vh;
 
     display: flex;
     justify-content: center;
